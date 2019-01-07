@@ -1,5 +1,5 @@
 # wav2tzx
-Make TZX files from WAV file.
+Make ZX Spectrum TZX files from WAV file.
 
 # DISCLAIMER:
 This is a very rudimental implementation. It only supports tapes stored with ROM timings (No fastloader support)
